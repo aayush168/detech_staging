@@ -1,1 +1,0 @@
-# detech_staging
